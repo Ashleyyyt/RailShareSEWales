@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"name": "TfW - Market Variations",
+			"path": "."
+		},
+		{
+			"name": "Computational Data Science",
+			"path": "../Computational Data Science"
+		},
+		{
+			"name": "CMT218 Data Visualisation",
+			"path": "../CMT218 Data Visualisation"
+		},
+		{
+			"name": "ML Data Science",
+			"path": "../ML Data Science"
+		},
+		{
+			"name": "VotingApp",
+			"path": "../VotingApp"
+		},
+		{
+			"name": "Python Projects",
+			"path": "../Python Projects"
+		},
+		{
+			"name": "Personal Portfolio",
+			"path": "../Personal Portfolio"
+		},
+		{
+			"name": "Wardrobe Overhaul Web",
+			"path": "../Wardrobe Overhaul Web"
+		},
+		{
+			"name": "Food Decider App",
+			"path": "../Food Decider App"
+		},
+		{
+			"name": "Video Games and You",
+			"path": "../Video Games and You"
+		},
+		{
+			"name": "Assignment 1",
+			"path": "../MAT021 Op Res/Assignment 1"
+		},
+		{
+			"path": "../ML Project"
+		}
+	],
+	"settings": {}
+}
